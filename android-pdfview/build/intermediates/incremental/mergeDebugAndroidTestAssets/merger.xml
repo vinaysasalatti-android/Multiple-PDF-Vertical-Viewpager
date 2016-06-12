@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="/Volumes/Development/hashtaag-Utils/PDf-ViewPager/android-pdfview/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Volumes/Development/hashtaag-Utils/PDf-ViewPager/android-pdfview/src/androidTest/assets"/><source path="/Volumes/Development/hashtaag-Utils/PDf-ViewPager/android-pdfview/build/generated/assets/shaders/androidTest/debug"/></dataSet></merger>
